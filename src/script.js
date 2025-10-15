@@ -65,34 +65,19 @@ document.querySelectorAll(".card").forEach((card) => {
 
 const portfolioData = {
   portfolio1: {
-    image: "src/img/clareamento-dental.jpg", // Lembre-se de usar a imagem correta
-    title: "Clareamento Dental",
-    description:
-      "Procedimento seguro e eficaz que devolve a cor natural e o brilho ao seu sorriso, realçando sua confiança.",
+    image: "src/img/clareamento-dental.jpg",
   },
   portfolio2: {
-    image: "src/img/lentes-de-contato.jpg", // Lembre-se de usar a imagem correta
-    title: "Lentes de Contato Dentais",
-    description:
-      "Transformação completa do sorriso com lâminas ultrafinas de porcelana, corrigindo cor, forma e alinhamento para um resultado impecável.",
+    image: "src/img/lentes-de-contato.jpg",
   },
   portfolio3: {
-    image: "src/img/preenchimento-labial.jpg", // Lembre-se de usar a imagem correta
-    title: "Preenchimento Labial",
-    description:
-      "Lábios mais definidos, hidratados e volumosos com naturalidade, harmonizando o sorriso e realçando os traços faciais.",
+    image: "src/img/preenchimento-labial.jpg",
   },
   portfolio4: {
-    image: "src/img/alinhadores-invisiveis.jpg", // Lembre-se de usar a imagem correta
-    title: "Alinhadores Invisíveis",
-    description:
-      "Corrija o alinhamento do seu sorriso de forma discreta, confortável e previsível com a mais moderna tecnologia de alinhadores transparentes.",
+    image: "src/img/alinhadores-invisiveis.jpg",
   },
   portfolio5: {
-    image: "src/img/botox-facial.jpg", // Lembre-se de usar a imagem correta
-    title: "Botox Terapêutico e Estético",
-    description:
-      "Além de suavizar linhas de expressão para um rejuvenescimento facial, o tratamento é um poderoso aliado contra o bruxismo e dores de cabeça tensionais.",
+    image: "src/img/botox-facial.jpg",
   },
 };
 

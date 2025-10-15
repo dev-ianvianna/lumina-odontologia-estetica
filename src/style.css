@@ -19,7 +19,6 @@ html {
   --primary-foreground: hsl(0, 0%, 100%);
 
   --secondary: hsl(150, 40%, 60%);
-  --secondary-foreground: hsl(210, 25%, 20%);
 
   --muted: hsl(200, 30%, 90%);
   --muted-foreground: hsl(210, 10%, 40%);
